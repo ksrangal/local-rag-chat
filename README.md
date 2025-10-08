@@ -76,6 +76,8 @@ Here are some relevant documents: {reviews}
 
 Here is the question to answer: {question}
 ```
+<img width="1906" height="928" alt="Screenshot 2025-10-08 at 15 39 06" src="https://github.com/user-attachments/assets/88567283-4a81-42ae-90e2-85bdc32f9c32" />
+
 
 ## Project Structure
 ```
